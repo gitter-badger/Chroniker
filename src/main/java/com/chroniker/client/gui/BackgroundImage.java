@@ -1,4 +1,4 @@
-package com.chroniker.client.gui;
+package com.chroniker.gui;
 
 import javafx.beans.property.ReadOnlyDoubleProperty;
 import javafx.scene.image.ImageView;
